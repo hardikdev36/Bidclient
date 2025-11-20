@@ -1,0 +1,56 @@
+{
+  "Cricket": [
+    "Batsman",
+    "Bowler",
+    "All-Rounder",
+    "Wicketkeeper-Batsman"
+  ],
+  "Volleyball": [
+    "Setter",
+    "Outside Hitter",
+    "Opposite Hitter",
+    "middle Blocker",
+    "Libero"
+  ],
+  "Football": [
+    "Goalkeeper",
+    "Defender",
+    "Midfielder",
+    "Forward"
+  ],
+  "Kabaddi": [
+    "Corner",
+    "Cover",
+    "In",
+    "Center"
+  ],
+  "Kho Kho": [
+    "Chaser",
+    "Defender",
+    "Both Chaser & Defender"
+  ],
+  "Hockey": [
+    "Forward",
+    "MidFielder",
+    "Fullback",
+    "Sweeper",
+    "GoalKeeper"
+  ],
+  "Badminton": [
+    "Singles",
+    "Doubles",
+    "Mixed Doubles"
+  ],
+  "Tennis": [
+    "Singles",
+    "Doubles",
+    "Mixed Doubles"
+  ],
+  "Basketball": [
+    "Point Guard",
+    "Shooting Guard",
+    "Small Forward",
+    "Power Forward",
+    "Center"
+  ]
+}
