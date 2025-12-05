@@ -13,6 +13,7 @@ import {
   Link,
   Grid,
   Avatar,
+  Alert,
   useTheme
 } from '@mui/material';
 import { Link as RouterLink, useNavigate } from 'react-router-dom';
@@ -151,7 +152,7 @@ const SignUp = () => {
             >
               Join BidAthlete
             </Typography>
-            {Error && <Alert severity="error">{Error}</Alert>}
+            {Error && <Alert severity="error" sx={{ mb: 4 }}>{Error}</Alert>}
 
             <Grid container spacing={3}>
               <Grid item xs={12} sm={6}>
